@@ -8,9 +8,9 @@
 	<Browser>Google Chrome</Browser>     
 	<URL>https://someaddress</URL>        
 	<Steps_to_reproduce>
-    open https://someaddress<br>
-    type name and/or last name of the author for example Stephen King<br> 
-	  click on the search button<br>
+    		open https://someaddress<br>
+    		type name and/or last name of the author for example Stephen King<br> 
+	  	click on the search button<br>
 	</Steps_to_reproduce>
 	<Expected result>Authors and books by them will be displayed</Expected result>
 	<Actual result>The page stays the same, nothing happens</Actual result>
