@@ -10,7 +10,7 @@
 	<Steps_to_reproduce>
     		open https://someaddress<br>
     		type name and/or last name of the author for example Stephen King<br> 
-	  	click on the search button<br>
+	  	click on the search button
 	</Steps_to_reproduce>
 	<Expected_result>Authors and books by them will be displayed</Expected_result>
 	<Actual_result>The page stays the same, nothing happens</Actual_result>
