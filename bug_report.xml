@@ -2,7 +2,7 @@
 	<BugID>101</BugID>
 	<Bug_Name>Button SEARCH is not working</Bug_Name> 
 	<Summary>Nothing happens when button SEARCH is clicked</Summary>
-	<Submit Date>11-11-2022</Submit Date>           
+	<Submit Date>"11-11-2022"</Submit Date>           
 	<Reporter>Acelotl Grada</Reporter>              
 	<Operating System>Windows 10</Operating System>
 	<Browser>Google Chrome</Browser>     
